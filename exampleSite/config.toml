@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://examplesite.org"
+baseurl = "https://fohow.by"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Fohow.by"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -97,12 +97,12 @@ address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright 2022"
 
 # Instagram feed
 [params.instafeed]
 enable = true
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = "#"
 
 # cookies
 [params.cookies]
